@@ -1,0 +1,152 @@
+{
+    "navbar_beatmaps": "Haritalar",
+    "navbar_beatmap_pack": "Harita paketleri",
+    "navbar_documents": "Belgeler",
+    "navbar_language": "Dil Değiştir",
+
+    
+    "footer_nerinyan_powered": "NeriNyan tarafından desteklenmektedir 2021 ~ 2024 | ppy, osu ile bağlantılı değil!",
+    "footer_dmca": "DMCA",
+    "footer_documents": "Belgeler",
+    "footer_github": "Github",
+    "footer_discord": "Discord",
+    "footer_info/status": "Bilgi/Durum",
+
+
+    "not_found": "404 Bulunamadı 🙀",
+    "not_found_message": "Aradığın şey burada yok.😿",
+    "not_found_message2": "Burada da başka bir şey yok. Ana Sayfa dönmeye ne dersin? 😽",
+    "return_to_main_page": "Ana Sayfa'ya dön",
+
+    "oops": "Hay aksi...",
+    "search_results_do_not_exist": "Kediler 1TB'lık haritaları ararken, anahtar kelimenizi bulamadılar. 😥",
+
+    "loading": "Yükleniyor...",
+    "loaded": "Yüklendi!",
+
+    "announcement": "Duyuru!",
+
+    "please_wait_to_download": "İndirmek için lütfen bekleyin...",
+    "not_selected_to_download": "İndirmek için seçilmedi",
+    "zip_system_announcement": "Arşiv Sistemi Duyurusu",
+    "zip_system_announcement_message1": "Sıkıştırılacak haritalar indirildi.",
+    "zip_system_announcement_message2": "Sıkıştırma hala devam ediyor, sabırlı ol!",
+    "zip_system_announcement_message3": "Bu mesaj {} saniye sonra kapanacak.",
+    "zip_system_announcement_close_button": "tamam",
+
+    "thank_you_for_using_nerinyan": "Nerinyan'ı kullandığın için teşekkür ederiz!🐈",
+    "your_requested_beatmapset_will_download": "İstediğin harita saniyler içinde indilecek... İndirme başarısız oldu?",
+    "click_here_to_download_manually": "Manuel olarak indirmek için buraya tıklayın.",
+
+
+    "search": "Ara",
+    "search_placeholder": "Ara...",
+    
+    "mode": "Mod",
+    "mode_any": "Herhangi biri",
+    "mode_osu": "osu!",
+    "mode_taiko": "osu!taiko",
+    "mode_catch": "osu!catch",
+    "mode_mania": "osu!mania",
+
+    "categories": "Kategori",
+    "categories_any": "Herhangi biri",
+    "categories_has_leaderboard": "Liderlik tablosu var",
+    "categories_ranked": "Dereceli",
+    "categories_qualified": "Onaylı",
+    "categories_loved": "Sevilen",
+    "categories_pending": "Bekleyen",
+    "categories_wip": "Devam Eden",
+    "categories_graveyard": "Mezarlık",
+
+    "explicit_content": "Müstehcen İçerik",
+    "explicit_content_hide": "Gizle",
+    "explicit_content_show": "Göster",
+
+    "extra": "Ekstra",
+    "extra_has_video": "Video içerir",
+    "extra_has_storyboard": "Storyboard içerir",
+
+    "sort_by": "Sırala",
+    "sort_by_title": "İsim",
+    "sort_by_artist": "Sanatçı",
+    "sort_by_difficulty": "Zorluk",
+    "sort_by_ranked": "Dereceli",
+    "sort_by_updated": "Güncellenmiş",
+    "sort_by_plays": "Oynamalar",
+    "sort_by_favorites": "Favoriler",
+
+    "filter_song_setup": "Şarkı Ayarları (AR, CS ve fazlası)",
+    "filter_ar": "AR",
+    "filter_cs": "CS",
+    "filter_od": "OD",
+    "filter_hp": "HP",
+    "filter_bpm": "BPM",
+    "filter_star_rating": "Zorluk",
+
+    "download_options": "İndirme seçenekleri",
+    "download_options_direct_download": "Direkt olarak indir",
+    "download_options_no_video": "Videosuz indir",
+    "download_options_no_background": "Arkaplansız indir",
+    "download_options_no_hitsound": "Hitsoundlar olmadan indir",
+    "download_options_no_storyboard": "Storyboard olmadan indir",
+
+    "zip_download": "Arşivlenmiş şekilde indirmek (beta)",
+    "zip_download_selected_download": "Seçilenleri indir",
+    "zip_download_all_download": "Hepsini indir",
+
+    "show_beatmap_info": "Harita bilgisini göster",
+    "hide_beatmap_info": "Harita bilgisini gizle",
+
+    "ranked": "Dereceli",
+    "qualified": "Onaylı",
+    "loved": "Sevilen",
+    "pending": "Bekleyen",
+    "wip": "Devam Eden",
+    "graveyard": "Mezarlık",
+    "unknown": "Bilinmeyen",
+
+    "explicit": "Müstehcen",
+    "favorites_count": "Favori sayısı",
+    "play_count": "Oynama sayısı",
+
+    "download": "indir",
+    "bg": "BG",
+    "download_bg": "BG indir",
+    "beatmap_page": "Harita sayfası",
+    "preview": "Öngörü",
+    "copy_download_url": "İndirme bağlantısını kopyala",
+
+    "mapped_by": "tarafından haritalandı",
+    "submitted": "gönderildi",
+    "total_length": "Toplam uzunluk",
+    "bpm": "BPM",
+    "circle_count": "Daire Sayısı",
+    "slider_count": "Slider Sayısı",
+    "circle_size": "Daire Boyutu",
+    "key_count": "Tuş Sayısı",
+    "hp_drain": "HP Drain",
+    "accuracy": "Doğruluk",
+    "approach_rate": "Yaklaşım Oranı",
+    "star_rating": "Zorluk",
+    "success_rate": "Başarı Oranı",
+    "source": "Kaynak",
+    "tags": "Etiketler",
+
+
+    "this_beatmap_contains_video": "Bu harita video içerir",
+    "this_beatmap_contains_storyboard": "Bu harita storyboard içerir",
+    "append_this_beatmap_to_download_list": "Bu haritayı İndirme listesine ekle",
+    "download_beatmap_background_image": "Harita arkaplan fotoğrafını indir",
+    "go_to_osu_beatmap_page": "osu! harita sayfasına git",
+    "go_to_beatmap_preview_site": "Harita öngörüm sayfasına git",
+    "catch_not_supported_beatmap_preview.": "osu!catch geçerli bir harita öngörüm değil",
+
+
+    "explicit_warning_title": "Müstehcen İçerik",
+    "explicit_warning_content1": "Bu beatmap müstehcen, ofansif, veya rahatsız edici içerik içermektedir.",
+    "explicit_warning_content2": "Yine de indirmek ister misiniz?",
+    "explicit_warning_button_download": "İndir",
+    "explicit_warning_button_disable_warning": "Uyarıyı devre dışı bırak",
+    "explicit_warning_button_cancel": "İptal"
+}
